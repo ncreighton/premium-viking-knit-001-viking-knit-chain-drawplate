@@ -1,0 +1,2 @@
+# premium-viking-knit-001-viking-knit-chain-drawplate
+Tired of losing track of which drawplate pull gave you that perfect Viking knit chain? The Viking Knit Chain &amp; Drawplate Pull Hub is your central command for every pull, every gauge, every result.  This Notion template eliminates the guesswork by logging each drawplate pull with wire type, pull tension, and chain length. No more inconsistent chains
